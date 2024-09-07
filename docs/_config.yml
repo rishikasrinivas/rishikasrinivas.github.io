@@ -52,7 +52,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-domain: rishikasrinivas.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://rishikasrinivas.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /rishikasrinivas.github.io/    # place folder name if the site is served in a subfolder
+#domain: rishikasrinivas.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#url: https://rishikasrinivas.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl: /rishikasrinivas.github.io/    # place folder name if the site is served in a subfolder
 
