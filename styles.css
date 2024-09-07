@@ -1,9 +1,13 @@
-#content {
-  position:relative;
-}
-
-.ribbon {
-  position:absolute;
-  top:0;
-  right:0;
-}
+<style>
+  img {
+      border: 2px solid black;
+  }
+  #content {
+      position: relative;
+  }
+  #content img {
+      position: absolute;
+      top: -2px;
+      right: 8px;
+  }
+</style>
