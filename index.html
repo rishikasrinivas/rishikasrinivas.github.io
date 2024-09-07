@@ -1,13 +1,28 @@
-<html>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Right Image</title>
+    <style>
+        .container {
+            position: relative; /* Container must be relative */
+            width: 100%;
+            height: 300px; /* Adjust as needed */
+            background-color: lightgray; /* Just for visibility */
+        }
+        .top-right {
+            position: absolute; /* Absolute positioning */
+            top: 0; /* Align to the top */
+            right: 0; /* Align to the right */
+            width: 100px; /* Adjust size as needed */
+            height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
 <body>
-  <h1>YOUR NAME</h1>
-  <p>Welcome to my website!</p>
-
-<div id="content">
-    <img src="Rishika Srinivas-8.jpg" class="ribbon" alt="" />
-    <div>some text...</div>
-</div>
+    <div class="container">
+        <img src="Rishika Srinivas-8.jpg" alt="Top Right Image" class="top-right">
+    </div>
 </body>
-
 </html>
