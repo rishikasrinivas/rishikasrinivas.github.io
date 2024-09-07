@@ -22,7 +22,7 @@ title: Rishika Srinivas
 email: "riasrini@ucsc.edu"
 description: "Hi! My name is Rishika Srinivas. I'm a 3rd-year undergraduate studying Computer Science at UC Santa Cruz specializing in AI and an undergraduate researcher in the AIEA Lab at UCSC. My research focuses on Explainable AI generating and analyzing concept-based explanations in Deep Learning models. My goal is to leverage AI/ML to make impactful contributions to society as exemplified by my teaching roles, project experiences, and industry roles."
 
-baseurl: "rishikasrinivas.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/rishikasrinivas.github.io" # the subpath of your site, e.g. /blog
 url: "https://rishikasrinivas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
