@@ -13,7 +13,7 @@
         <div class="publication-authors">Rishika Srinivas, Arnav Kartikeya, Biagio La Rosa,Leilani Gilpin</div>
         <div class="publication-year">2026</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">Multi-Agent Safety</span>
+            <span class="tag tag-safety">Interpretability & Pruning</span>
             <a href="" class="tag tag-arxiv">ARXIV</a>
             <a href="" class="tag tag-github">GITHUB</a>
         </div>
