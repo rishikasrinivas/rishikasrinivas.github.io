@@ -3,7 +3,6 @@
 
 
 <div class="timeline">
-<a href="Rishika_Srinivas_Resume_M.pdf" class="link" target="_blank">
-    📄 My Resume!
-</a>
+
+<a href="Rishika_Srinivas_Resume_M.pdf" target="_blank">View My Resume!b</a>
 </div>
