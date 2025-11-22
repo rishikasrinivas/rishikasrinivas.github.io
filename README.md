@@ -1,6 +1,6 @@
 # Portfolio
 
-My personal portfolio website showcasing research in AI Safety and Machine Learning.
+My personal portfolio website showcasing research in AI Safety and Machine Learning..
 
 **Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
 
