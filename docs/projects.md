@@ -10,7 +10,7 @@
         <div class="publication-authors">Rishika Srinivas, Nataliia Kulieshova, Anushka Limaye, Kymari Bratton, Fernanda Del Toro</div>
         <div class="publication-year">2024</div>
         <div class="publication-tags">
-            <span class="tag tag-safety">Interpretability & Pruning</span>
+            <span class="tag tag-safety">AI for Mental Health</span>
             <a href="https://github.com/rishikasrinivas/KnowledgeGraphMentalHealth" class="tag tag-github">GITHUB</a>
         </div>
     </div>
