@@ -26,10 +26,6 @@
 
 
 
-I'm a DPhil student in Machine Learning at the University of Oxford, focusing on AI Safety, Interpretability, and Multi-Agent Systems.
+I'm a 4th year Computer Science Major at the University of California Santa Cruz (UCSC) with concentration in AI/ML. I'm also an undergraduate researcher in the AIEA Lab doing research in Explainale AI, SULI Intern at Argonne National Laboratories, and a Break Through Tech Alumni
 
-Previously, I was a Research Scientist Intern at Spotify and worked with the UK AI Security Institute (AISI) on their Bounty Programme investigating automated design of agentic systems. I was also the founding Research Scientist at Convergence (acquired by Salesforce), contributing to Proxy, a state-of-the-art multimodal web agent with 100k+ users, and held senior engineering roles at Pynea and Artera, leading teams and shipping ML innovations.
-
-I'm a member of LISA (London Initiative for Safe AI) and enjoy playing trumpet in a funk band, running bouldering socials, and helping new climbers get certified.
-
-P.S. There are some easter eggs on this website - find one and drop the emoji in your email subject line!
+I'm passionate about understanding ML from its roots and applying it for societal growth and how done numerous research, industrial and independent projects to achieve these goals!
