@@ -24,6 +24,6 @@
   </div>
 </div>
 
-I'm a 4th year Computer Science Major at the University of California Santa Cruz (UCSC) with concentration in AI/ML. I'm also an undergraduate researcher in the AIEA Lab doing research in Explainale AI, SULI Intern at Argonne National Laboratories, and a Break Through Tech Alumni
+I'm a 4th year Computer Science Major at the University of California Santa Cruz (UCSC) with concentration in AI/ML. I'm also an undergraduate researcher in the AIEA Lab doing research in Explainable AI, SULI Intern at Argonne National Laboratories, and a Break Through Tech Alumni
 
 I'm passionate about understanding ML from its roots and applying it for societal growth and how done numerous research, industrial and independent projects to achieve these goals!
