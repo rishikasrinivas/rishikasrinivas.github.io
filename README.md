@@ -2,12 +2,6 @@
 
 My personal portfolio website showcasing research in AI Safety and Machine Learning..
 
-**Live site:** [jrosser.co.uk](https://jrosseruk.github.io)
-
-## Preview
-
-![Portfolio Screenshot](docs/assets/screenshot.png)
-
 
 ## Tech Stack
 
@@ -29,4 +23,4 @@ python -m http.server 8000 -d docs/
 - `docs/styles.css` - Styling
 - `docs/script.js` - Functionality
 
-Inspired by [astro-theme-cactus](https://astro-cactus.chriswilliams.dev/) :)
+Inspired by jrosseruk
