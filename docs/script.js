@@ -273,7 +273,9 @@ class MarkdownLoader {
 
     async loadMarkdown(section) {
         const contentElement = document.getElementById(`${section}-content`);
-        if (!contentElement) return;
+        if (!contentElement) 
+            console.log("Couldnt find documnt for ${section}");
+            return;
 
         // Try multiple path strategies for better compatibility
         const pathsToTry = [
