@@ -1,4 +1,4 @@
-# Publications
+# Patents
 
 ## 2026
 
