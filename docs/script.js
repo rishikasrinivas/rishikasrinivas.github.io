@@ -260,8 +260,7 @@ class LazyImageLoader {
 // Markdown content loader
 class MarkdownLoader {
     constructor() {
-        this.sections = ['about', 'latestnews', 'patents', 'projects', 'publications', 'resume'];
-        console.log("in Markdown");
+        this.sections = ['about', 'latestnews', 'projects', 'publications', 'resume'];
         this.init();
     }
 
@@ -274,9 +273,7 @@ class MarkdownLoader {
 
     async loadMarkdown(section) {
         const contentElement = document.getElementById(`${section}-content`);
-        if (!contentElement) 
-            console.log("Couldnt find documnt for ${section}");
-            return;
+        if (!contentElement) return;
 
         // Try multiple path strategies for better compatibility
         const pathsToTry = [
@@ -284,7 +281,7 @@ class MarkdownLoader {
             `${section}.md`,             // Direct relative path
             `/${section}.md`             // Absolute from root (for some GitHub Pages setups)
         ];
-        console.log("Trying all paths");
+
         let lastError = null;
         
         for (const fullPath of pathsToTry) {
