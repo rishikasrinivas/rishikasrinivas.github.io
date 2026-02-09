@@ -1,6 +1,6 @@
 # Publications
 
-## 2025
+## 2026
 
 <div class="publication-card">
     <div class="publication-content">
