@@ -283,7 +283,7 @@ class MarkdownLoader {
             `${section}.md`,             // Direct relative path
             `/${section}.md`             // Absolute from root (for some GitHub Pages setups)
         ];
-
+        console.log("Trying all paths");
         let lastError = null;
         
         for (const fullPath of pathsToTry) {
